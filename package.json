@@ -1,0 +1,19 @@
+{
+  "name": "awspubsub",
+  "version": "1.0.0",
+  "description": "This is used to publish and to subscribe a topic",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ARoBotX/awspubsub.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ARoBotX/awspubsub/issues"
+  },
+  "homepage": "https://github.com/ARoBotX/awspubsub#readme"
+}
